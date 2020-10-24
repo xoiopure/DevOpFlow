@@ -13,6 +13,7 @@
       <file name="/Dummy.txt" timestamp="1601607593706">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/material-components-android-codelabs/kotlin/shrine/build.gradle" timestamp="1603513733141" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1601584399275">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -24,6 +25,7 @@
         <mark key="'" line="8" column="0" />
         <mark key="[" line="1" column="60" />
       </file>
+      <file name="$USER_HOME$/material-components-android-codelabs/kotlin/shrine/app/build.gradle" timestamp="1603513746226" />
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" />
